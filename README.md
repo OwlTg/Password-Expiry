@@ -1,5 +1,5 @@
 
-![Logo](https://promotexter.com/wp-content/themes/wp-bootstrap-4/assets/images/header/ptx-header-logo-dark.svg)
+![Logo](https://promotexter.com/wp-content/themes/wp-bootstrap-4/assets/images/header/ptx-header-logo-dark.svg) 
 # 
 
 Platform for businesses in sending customize marketing campaigns thru SMS, Viber and Emails.
@@ -7,7 +7,7 @@ Platform for businesses in sending customize marketing campaigns thru SMS, Viber
 
 
 ## Password Expiration
-Given the recent security attacks, we would like to implement additional security features.
+Given the recent security attacks, we would like to implement additional security features. 
 A mandatory password expiration should force users to **change their password every 90 Days**.
 
 
@@ -27,11 +27,11 @@ A mandatory password expiration should force users to **change their password ev
 #### Session Expiry
 Below are the new session expiry rules:
 
-| Action  |Expiry                |
-| :-------- :------------------------- |
-| `login with password expired after 90 days`| 10 minutes |
-| `successful login without password expiring`| 30 minutes |
-| `System engines`| N/A |
+| Action  | Expiry                    |
+| :-------- |:--------------------------|
+| `login with password expired after 90 days`| 10 minutes                |
+| `successful login without password expiring`| 30 minutes                |
+| `System engines`| N/A                       |
 
 
 ## Documentation
